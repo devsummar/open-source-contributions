@@ -15,10 +15,4 @@ A running log of my contributions to open-source projects: what I fixed, why it 
 | 2026-10-18 | [MDN Web Docs](https://github.com/mdn/content) | [#42516](https://github.com/mdn/content/issues/42516) | Documented the WebAuthn `mediation: "conditional"` option for `CredentialsContainer.create()` and fixed the `conditionalCreate` capability description | [#46191](https://github.com/mdn/content/pull/46191) | ⚪ Closed |
 | 2026-10-18 | [statsmodels](https://github.com/statsmodels/statsmodels) | [#8842](https://github.com/statsmodels/statsmodels/issues/8842) | Fixed exposure handling in the truncated and zero-inflated count models, where exposure was logged twice and gave nan or wrong estimates; added tests | [#10505](https://github.com/statsmodels/statsmodels/pull/10505) | 🟡 In review |
 
-## Issues I'm working on
-
-| Project | Issue | Status |
-|---------|-------|--------|
-| [Kestra](https://github.com/kestra-io/kestra) | [#21010](https://github.com/kestra-io/kestra/issues/21010) | Requested assignment |
-
 **Status key:** 🟡 In review · 🟢 Merged · 🔵 Changes requested · ⚪ Closed
