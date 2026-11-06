@@ -8,6 +8,7 @@ A running log of my contributions to open-source projects: what I fixed, why it 
 
 | Date | Project | Issue | What I did | PR | Status |
 |------|---------|-------|------------|----|--------|
+| 2026-11-06 | [xarray](https://github.com/pydata/xarray) | [#7699](https://github.com/pydata/xarray/issues/7699) | `drop_sel` now accepts the same label forms as `.sel`, including partial datetime strings that previously raised; added regression tests | [#11861](https://github.com/pydata/xarray/pull/11861) | 🟡 In review |
 | 2026-11-03 | [Kestra](https://github.com/kestra-io/kestra) | [#20210](https://github.com/kestra-io/kestra/issues/20210) | Pebble `date` filter now keeps full nanosecond precision for 19-digit epoch timestamps, which were silently shifted by hundreds of milliseconds; added regression tests | [#22201](https://github.com/kestra-io/kestra/pull/22201) | 🟡 In review |
 | 2026-11-03 | [Kestra](https://github.com/kestra-io/kestra) | [#21017](https://github.com/kestra-io/kestra/issues/21017) | Replaced Bootstrap utility classes in `Secrets.vue` with scoped CSS using `--ks-*` design tokens; removed unused utility classes from design-system `_utilities.css` | [#22183](https://github.com/kestra-io/kestra/pull/22183) | 🟢 Merged |
 | 2026-10-18 | [Vue.js Docs](https://github.com/vuejs/docs) | [#3406](https://github.com/vuejs/docs/issues/3406) | Right-clicking the navbar logo now opens the official Vue brand assets, so people stop saving the logo directly | [#3482](https://github.com/vuejs/docs/pull/3482) | 🟡 In review |
